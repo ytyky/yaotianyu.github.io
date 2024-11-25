@@ -33,7 +33,6 @@ layout: compress
         background-size: 60%;
         background-position: 0 50%;
         z-index: -1;     /* Places it behind the content */
-        pointer-events: none; /* Ensures it doesn’t block user interaction */
       } /* ---- stats.js ---- */
       .count-particles {
         background: #000022;
@@ -68,13 +67,11 @@ layout: compress
       }
   
       </style>
-    <div id="particles-js"></div> <!-- Particles Background -->
-    <!-- stats - count particles --> 
-    <div class="count-particles"> 
-      <span class="js-count-particles">--</span> particles 
-    </div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
-    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-    </script> <!-- stats.js lib --> <script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
+    <!-- particles.js container -->
+<div id="particles-js"></div> <!-- stats - count particles -->
+<div class="count-particles"> <span class="js-count-particles">--</span> particles </div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib -->
+<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
     <script src="assets/js/particles.js"></script>
     
     {{ content }}
