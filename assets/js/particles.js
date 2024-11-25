@@ -1,9 +1,9 @@
 particlesJS("particles-js", {
     particles: {
-      number: { value: 200, density: { enable: false, value_area: 800 } },
+      number: { value: 100, density: { enable: false, value_area: 800 } },
       color: { value: "#ffffff" },
       shape: {
-        type: "circle",
+        type: "star",
         stroke: { width: 0, color: "#000000" },
         polygon: { nb_sides: 5 },
         image: {
@@ -19,7 +19,7 @@ particlesJS("particles-js", {
         anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false }
       },
       size: {
-        value: 5,
+        value: 4,
         random: true,
         anim: { enable: false, speed: 40, size_min: 0.1, sync: false }
       },
@@ -44,7 +44,7 @@ particlesJS("particles-js", {
     interactivity: {
       detect_on: "canvas",
       events: {
-        onhover: { enable: false, mode: "grab" },
+        onhover: { enable: true, mode: "grab" },
         onclick: { enable: true, mode: "repulse" },
         resize: true
       },
