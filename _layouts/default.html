@@ -28,9 +28,10 @@ layout: compress
       background-repeat: no-repeat;
       background-size: 60%;
       background-position: 0 50%;
-      z-index: -1;
+      z-index: -1;     /* Places it behind the content */
+      pointer-events: none; /* Ensures it doesn’t block user interaction */
     } /* ---- stats.js ---- */
-    /* .count-particles {
+    .count-particles {
       background: #000022;
       position: absolute;
       top: 48px;
@@ -44,7 +45,7 @@ layout: compress
       padding-bottom: 2px;
       font-family: Helvetica, Arial, sans-serif;
       font-weight: bold;
-    } */
+    }
     .js-count-particles {
       font-size: 1.1em;
     }
@@ -72,7 +73,9 @@ layout: compress
     <div class="count-particles"> 
       <span class="js-count-particles">--</span> particles 
     </div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
-    <script src="assets/js/particles.js"></script>    
+    <script src="assets/js/particles.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    
     {{ content }}
 
     <div class="page__footer">
