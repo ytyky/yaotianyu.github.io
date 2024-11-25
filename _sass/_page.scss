@@ -16,15 +16,6 @@
   }
 }
 
-#particles-js {
-  position: fixed; /* Sticks to the viewport */
-  width: 100%;     /* Covers the entire width */
-  height: 100%;    /* Covers the entire height */
-  top: 0;
-  left: 0;
-  z-index: -1;     /* Places it behind the content */
-  pointer-events: none; /* Ensures it doesn’t block user interaction */
-}
 
 .page {
   @include breakpoint($large) {
