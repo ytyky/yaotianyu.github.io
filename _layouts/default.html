@@ -13,6 +13,8 @@ layout: compress
 
 
   <body>
+    {{ content }}
+
     <!-- particles.js container -->
     <div id="particles-js"></div> <!-- stats - count particles -->
     <div class="count-particles"></div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
@@ -20,8 +22,6 @@ layout: compress
     <script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
     <script src="assets/js/particles.js"></script>
     
-    {{ content }}
-
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
