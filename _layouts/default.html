@@ -6,7 +6,13 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-
+  <!-- particles.js container -->
+  <div id="particles-js"></div> <!-- stats - count particles -->
+  <div class="count-particles"></div> <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib -->
+  <script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
+  <script src="assets/js/particles.js"></script>
+  
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -14,6 +20,10 @@ layout: compress
 
 
   <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+    
     {{ content }}
     
     <div class="page__footer">
