@@ -31,4 +31,4 @@ Currently working on data, platform, and automation at PlusAI, an AI company. My
 
 ## Get In Touch
 
-Feel free to connect with me via email at tianyuyao@yahoo.com or through my [LinkedIn profile](https://www.linkedin.com/in/tianyuyao/).
+Feel free to connect with me via email at yaotianyu27@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/in/tianyuyao/).
