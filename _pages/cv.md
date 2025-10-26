@@ -17,12 +17,12 @@ Education
 Work Experience
 ======
 * January 2025 - Present: Senior Software Engineer
-  * Plus
+  * PlusAI (AI Company)
   * Data, platform and automation
   * Santa Clara, California
 
 * March 2023 - January 2025: Software Engineer
-  * Plus
+  * PlusAI (AI Company)
   * Data & infrastructure
   * Technologies: Apache Spark, Big Data
   * Santa Clara, California
