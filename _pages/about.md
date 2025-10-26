@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm Tianyu Yao, a Senior Software Engineer at Plus based in Santa Clara, California.
+Welcome to my personal website! I'm Tianyu Yao, a Senior Software Engineer at PlusAI based in Santa Clara, California.
 
 ## About Me
 
@@ -15,7 +15,7 @@ Strong in decomposing various needs to code and implementing with efficiency. Pa
 
 ## Professional Focus
 
-Currently working on data, platform, and automation at Plus. My expertise spans:
+Currently working on data, platform, and automation at PlusAI, an AI company. My expertise spans:
 - Large Language Models (LLM)
 - Apache Spark and Big Data technologies
 - Data infrastructure and platform engineering
