@@ -11,26 +11,37 @@ redirect_from:
 
 Education
 ======
-* [Add your degree, institution, and year here]
-* [Add additional degrees as needed]
+* M.A. in Statistics, Columbia University, 2021-2022
+* B.S. in Computer Science and Statistics, University of California, Berkeley, 2018-2021
 
 Work Experience
 ======
-* [Current Position]: [Title]
-  * [Company/Organization]
-  * [Brief description of responsibilities]
-  * [Duration]
+* January 2025 - Present: Senior Software Engineer
+  * Plus
+  * Data, platform and automation
+  * Santa Clara, California
 
-* [Previous Position]: [Title]
-  * [Company/Organization]
-  * [Brief description of responsibilities]
-  * [Duration]
+* March 2023 - January 2025: Software Engineer
+  * Plus
+  * Data & infrastructure
+  * Technologies: Apache Spark, Big Data
+  * Santa Clara, California
+
+* June 2019 - August 2019: Academic Tutor (Internship)
+  * UC Berkeley Electrical Engineering & Computer Sciences (EECS)
+  * Taught Java and Data Structures
+  * Berkeley, California
 
 Skills
 ======
-* [Add your technical skills]
-* [Add your domain expertise]
-* [Add other relevant skills]
+* Large Language Models (LLM)
+* Apache Spark
+* Big Data Technologies
+* Data Infrastructure & Platform Engineering
+* Software Development
+* Machine Learning
+* Database Systems
+* Data Manipulation & Modeling
 
 Publications
 ======
