@@ -7,19 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm Tianyu Yao, based in California.
+Welcome to my personal website! I'm Tianyu Yao, a Senior Software Engineer at Plus based in Santa Clara, California.
 
-## Professional Background
+## About Me
 
-[Add your professional summary here - describe your current role, expertise, and career focus]
+Strong in decomposing various needs to code and implementing with efficiency. Passionate about building projects in various fields including web applications, machine learning, and databases. Interested in technology, data manipulation, modeling, and AI.
 
-## Research Interests
+## Professional Focus
 
-[Add your research interests and areas of expertise here]
+Currently working on data, platform, and automation at Plus. My expertise spans:
+- Large Language Models (LLM)
+- Apache Spark and Big Data technologies
+- Data infrastructure and platform engineering
+- Software development with focus on efficiency and scalability
 
 ## Education
 
-[Add your educational background here]
+**Columbia University** (2021-2022)
+- Master of Arts in Statistics
+
+**University of California, Berkeley** (2018-2021)
+- Bachelor's degree in Computer Science and Statistics
 
 ## Get In Touch
 

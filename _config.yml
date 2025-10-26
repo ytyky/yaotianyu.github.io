@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tianyu Yao"
-  pronouns         : "He/His" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "California"
-  employer         : "+"
+  pronouns         : "He/His"
+  bio              : "Senior Software Engineer at Plus"
+  location         : "Santa Clara, California"
+  employer         : "Plus"
   uri              : # URL
   email            : "tianyuyao@yahoo.com" 
 
